@@ -33,12 +33,6 @@
 
 ---
 
-## 📈 Contribution Graph
-
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=galvezredondodavid&theme=react-dark)
-
----
-
 ## 📫 Let's Connect!
 
 - [LinkedIn](https://www.linkedin.com/in/david-galvez-redondo/)
