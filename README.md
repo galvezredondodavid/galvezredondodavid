@@ -27,13 +27,6 @@
 
 ---
 
-## 🌟 Featured Repositories
-
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=galvezredondodavid&repo=Proyecto-DAM&theme=radical)](https://github.com/galvezredondodavid/Proyecto-DAM)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=galvezredondodavid&repo=Proyecto-DAM-2&theme=radical)](https://github.com/galvezredondodavid/Proyecto-DAM-2)
-
----
-
 ## 🏆 GitHub Trophies
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=galvezredondodavid&theme=radical&row=2&column=3)
