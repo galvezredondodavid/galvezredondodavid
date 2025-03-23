@@ -1,5 +1,5 @@
-[![GitHub followers](https://img.shields.io/github/followers/galvezredondodavid?label=Follow&style=social)](https://github.com/galvezredondodavid)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/galvezredondodavid)
+[![GitHub followers](https://img.shields.io/github/followers/galvezredondodavid?label=Follow&style=social)](https://github.com/galvezredondodavid/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/galvezredondodavid/)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red)](mailto:galvezredondodavid@gmail.com)
 
 ---
