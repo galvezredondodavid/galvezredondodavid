@@ -20,8 +20,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=galvezredondodavid&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=galvezredondodavid&theme=radical)
-
 ---
 
 ## 🏆 GitHub Trophies
