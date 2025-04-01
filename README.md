@@ -30,8 +30,8 @@
 
 ## 📫 Let's Connect!
 
-- [LinkedIn](https://www.linkedin.com/in/david-galvez-redondo/)
-- [Email](mailto:davidgalvezredondo@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/galvezredondodavid/)
+- [Email](mailto:galvez.redondo.david@gmail.com)
 
 ---
 
